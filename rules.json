@@ -1,1 +1,25 @@
+{
+  "ASNZS": {
+    "safety-general": {
+      "title": "General Safety Requirements",
+      "section": "1.1",
+      "text": "All electrical installations must comply with the fundamental safety principles of AS/NZS 3000:2018 to ensure protection against thermal effects, overcurrent, and fault currents.",
+      "videoUrl": "https://youtube.com/@tgl-v9l"
+    },
+    "wiring-methods": {
+      "title": "Wiring Systems",
+      "section": "3.1",
+      "text": "Wiring must be selected and installed to provide adequate mechanical protection and prevent degradation from environmental factors.",
+      "videoUrl": "https://youtube.com/@tgl-v9l"
+    }
+  },
+  "NEC": {
+    "branch-circuits": {
+      "title": "Branch Circuit Requirements",
+      "section": "210.1",
+      "text": "NEC guidelines for branch circuits, ensuring correct sizing of conductors and overcurrent protective devices based on load calculations.",
+      "videoUrl": "https://youtube.com/@tgl-v9l"
+    }
+  }
+}
 
